@@ -155,6 +155,12 @@ Customer-Churn-Analysis/
 
 ---
 
+## 📷 Dashboard Preview
+
+![Customer Churn Analysis Dashboard](Customer_Churn_Dashboard.png)
+
+---
+
 ## 👤 Author
 
 **Anuj Kumar**  
